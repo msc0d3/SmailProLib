@@ -1,5 +1,0 @@
-D:\Projects VS 2\LinhTinh\SmailproExample\SmailproLib\bin\Debug\SmailproLib.dll
-D:\Projects VS 2\LinhTinh\SmailproExample\SmailproLib\bin\Debug\SmailproLib.pdb
-D:\Projects VS 2\LinhTinh\SmailproExample\SmailproLib\obj\Debug\SmailproLib.csproj.CoreCompileInputs.cache
-D:\Projects VS 2\LinhTinh\SmailproExample\SmailproLib\obj\Debug\SmailproLib.dll
-D:\Projects VS 2\LinhTinh\SmailproExample\SmailproLib\obj\Debug\SmailproLib.pdb
