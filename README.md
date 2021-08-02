@@ -3,6 +3,7 @@ SmailPro Library c#, easy to use
 * create temp email from smailpro
 * check mailbox ( return raw response )
 * asynchronous method
+![image](https://user-images.githubusercontent.com/44217992/127820591-646368ce-ecf3-4998-a91a-0fc035b8c298.png)
 
 ## Installation
 Download release and add SmailproLib.dll to you project references
